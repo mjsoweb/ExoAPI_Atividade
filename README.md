@@ -1,5 +1,7 @@
 # ExoAPI_Atividade
 04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador
+Atualização 21/11/24 - Criar o restante do CRUD de projetos, 
+testando-o no Insomnia
 # Projeto de API para Listagem de Projetos
 
 ## Descrição
